@@ -7,4 +7,7 @@
 Una aplicación simple de lista de tareas hecha con HTML, CSS y JavaScript.
 - **Repositorio:** [Ver en GitHub](https://github.com/AloneDc/todo-list)
 - **Demo:** [*En desarrollo*](https://alonedc.github.io/todo-list/)
-
+### 2. Calculadora
+Una aplicación simple de lista de tareas hecha con HTML, CSS y JavaScript.
+- **Repositorio:** [Ver en GitHub](https://github.com/AloneDc/calculadora)
+- **Demo:** [*En desarrollo*](https://alonedc.github.io/calculadora/)
